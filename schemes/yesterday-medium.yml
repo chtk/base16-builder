@@ -1,0 +1,22 @@
+# Based on the original and current Tomorrow themes by Chris Kempson
+# [1] tomorrow.yml
+# [2] https://github.com/chriskempson/tomorrow-theme
+# [3] ocean.yml
+scheme: "Yesterday Medium"
+author: "Stefan van den Berg"
+base00: "2b303b"
+base01: "343d46"
+base02: "4f5b66"
+base03: "65737e"
+base04: "a7adba"
+base05: "c0c5ce"
+base06: "dfe1e8"
+base07: "eff1f5"
+base08: "c82829" # [2]   Red
+base09: "f5871f" # [2]   Orange
+base0A: "eab700" # [2]   Yellow
+base0B: "718c00" # [2]   Green
+base0C: "3e999f" # [2]   Aqua
+base0D: "4271ae" # [2]   Blue
+base0E: "8959a8" # [2]   Purple
+base0F: "7f2a1d" #       Brown:  0xa3+0xc8-0xcc-0x20 . 0x68+0x28-0x66 . 0x5a+0x29-0x66
